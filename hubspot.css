@@ -1,0 +1,99 @@
+body{
+    border-style: groove;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+     display: grid;
+    grid-template-columns: 1fr; 
+    background-color: beige;
+
+}
+/* .child{
+    display: grid;
+    grid-template-columns: 200px 200px;
+    grid-template-rows: 400px 200px;
+} */
+button{
+    background-color: orangered;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+    color: white;
+}
+.hub {
+    font-family: system-ui, sans-serif;
+    background-color: white;
+    color: orangered;
+}
+.second-graph img{
+    float: left;
+}
+.box1{
+    border-style: solid;
+    margin-right: 70rem;
+}
+.box2{
+    border-style: solid;
+    margin-right: 70rem;
+    
+}
+.box3{
+    border-style: solid;
+    margin-right:70rem;
+}
+.box4{
+    border-style: solid;
+    margin-right: 70rem;
+
+}
+.box5{
+    border-style: solid;
+    margin-right: 70rem;
+}
+.box6{
+    border-style: solid;
+    margin-right: 70rem;
+
+}
+.box7{
+    border-style: solid;
+    margin-right: 70rem;
+
+}
+.box8{
+    border-style: solid;
+    margin-right: 70rem;
+
+}
+.box9{
+    border-style: solid;
+    margin-right: 70rem;
+
+}
+.fourth-graph{
+    background-color:cadetblue ;
+}
+ a{
+    font-size: large;
+    text-decoration: none;
+    /* background-color:royalblue; */
+
+}
+.sixth-graph img{
+    height: 200px;
+    
+}
+.sixth-graph {
+    background-color: white;
+}
+.seventh-graph{
+    background-color: white;
+}
+.seventh-graph img{
+    height: 200px;
+}
+.spec ul {
+    list-style: none;
+}
+
+
